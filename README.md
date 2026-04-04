@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+AI based travel recommendation system
 
   # TripDNA Web App Prototype
 
